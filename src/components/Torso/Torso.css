@@ -1,0 +1,9 @@
+.go-on-the-right {
+    width: 50%;
+    color: red;
+    justify-content: flex-end;
+}
+
+.torso-parent {
+    display: flex;
+}
